@@ -21,9 +21,4 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.10" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DAO\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
