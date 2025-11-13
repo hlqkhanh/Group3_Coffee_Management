@@ -6875,24 +6875,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\84702\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LAPTOP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.csproj",
+      "projectUniqueName": "C:\\Users\\LAPTOP\\Group3_Coffee_Management\\CoffeeManagement\\CoffeeManagement.csproj",
       "projectName": "CoffeeManagement",
-      "projectPath": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.csproj",
-      "packagesPath": "C:\\Users\\84702\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement\\obj\\",
+      "projectPath": "C:\\Users\\LAPTOP\\Group3_Coffee_Management\\CoffeeManagement\\CoffeeManagement.csproj",
+      "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LAPTOP\\Group3_Coffee_Management\\CoffeeManagement\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\84702\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6906,8 +6901,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj": {
-              "projectPath": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\Project_Github\\CoffeeManagement\\CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj"
+            "C:\\Users\\LAPTOP\\Group3_Coffee_Management\\CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj": {
+              "projectPath": "C:\\Users\\LAPTOP\\Group3_Coffee_Management\\CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj"
             }
           }
         }
@@ -6962,7 +6957,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
