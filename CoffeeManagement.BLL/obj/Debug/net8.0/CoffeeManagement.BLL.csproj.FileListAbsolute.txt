@@ -1,0 +1,63 @@
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeMa.94CE5815.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\refint\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\ref\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.deps.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfo.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.sourcelink.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeMa.94CE5815.Up2Date
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\refint\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\ref\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeMa.94CE5815.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\refint\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\ref\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeMa.94CE5815.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\refint\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\CoffeeManagement.BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.BLL\obj\Debug\net8.0\ref\CoffeeManagement.BLL.dll

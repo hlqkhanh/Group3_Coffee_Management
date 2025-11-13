@@ -1,0 +1,578 @@
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_MarkupCompile.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_MarkupCompile.lref
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.exe
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.runtimeconfig.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.BLL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.g.resources
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeMa.A10C44DF.Up2Date
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\refint\CoffeeManagement.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.genruntimeconfig.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\ref\CoffeeManagement.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserDialog.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UsersListControl.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserDialog.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UsersListControl.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserProfile.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserProfile.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserUpdateProfile.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserUpdateProfile.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemDialog.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemsList.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemDialog.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemsList.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuUI.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuUI.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CartDialog.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CartDialog.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\StaffOrders.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\StaffOrders.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderHistory.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderDetailDialog.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderDetailDialog.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderHistory.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminAllOrdersView.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminAllOrdersView.baml
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminDashboardView.g.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminDashboardView.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.exe
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.deps.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.runtimeconfig.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.BLL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.BLL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminDashboardView.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CartDialog.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemDialog.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemsList.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderDetailDialog.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserDialog.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserProfile.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UsersListControl.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserUpdateProfile.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminAllOrdersView.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminDashboardView.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CartDialog.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemDialog.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemsList.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuUI.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderDetailDialog.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderHistory.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\StaffOrders.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserDialog.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserProfile.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UsersListControl.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserUpdateProfile.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_MarkupCompile.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_MarkupCompile.lref
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminAllOrdersView.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuUI.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderHistory.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\StaffOrders.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.g.resources
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.AssemblyInfo.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.sourcelink.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeMa.A10C44DF.Up2Date
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\refint\CoffeeManagement.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.genruntimeconfig.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\ref\CoffeeManagement.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminPromotionsView.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminPromotionsView.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\PromotionEditDialog.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\PromotionEditDialog.baml
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\images\banner.jpg
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_Content.g.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Helpers\AppSession.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\images\banner.jpg
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.exe
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Helpers\AppSession.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\appsettings.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Humanizer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.BLL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.BLL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\bin\Debug\net8.0-windows\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminDashboardView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CartDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MainWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemsList.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderDetailDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserProfile.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UsersListControl.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserUpdateProfile.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminAllOrdersView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminDashboardView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminPromotionsView.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CartDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuItemsList.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuUI.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderDetailDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderHistory.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\PromotionEditDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\StaffOrders.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserDialog.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserProfile.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UsersListControl.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\UserUpdateProfile.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_Content.g.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_MarkupCompile.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement_MarkupCompile.lref
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminAllOrdersView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\AdminPromotionsView.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\MenuUI.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\OrderHistory.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\PromotionEditDialog.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\StaffOrders.baml
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.g.resources
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeMa.A10C44DF.Up2Date
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\refint\CoffeeManagement.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\CoffeeManagement.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\ref\CoffeeManagement.dll

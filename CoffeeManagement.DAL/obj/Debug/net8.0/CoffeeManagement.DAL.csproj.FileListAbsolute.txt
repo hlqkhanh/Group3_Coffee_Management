@@ -1,0 +1,59 @@
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.deps.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.runtimeconfig.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfo.cs
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.sourcelink.json
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\refint\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.genruntimeconfig.cache
+C:\Users\CONG NHAT\OneDrive\Desktop\C#\Session3-OOP\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\ref\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.deps.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.runtimeconfig.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfo.cs
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.sourcelink.json
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\refint\CoffeeManagement.DAL.dll
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.pdb
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.genruntimeconfig.cache
+C:\Users\CONG NHAT\Downloads\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\ref\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.sourcelink.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\refint\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\CoffeeManagement\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\ref\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.deps.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.runtimeconfig.json
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\bin\Debug\net8.0\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.AssemblyReference.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfoInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.AssemblyInfo.cs
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.csproj.CoreCompileInputs.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\refint\CoffeeManagement.DAL.dll
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.pdb
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\CoffeeManagement.DAL.genruntimeconfig.cache
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement.DAL\obj\Debug\net8.0\ref\CoffeeManagement.DAL.dll
