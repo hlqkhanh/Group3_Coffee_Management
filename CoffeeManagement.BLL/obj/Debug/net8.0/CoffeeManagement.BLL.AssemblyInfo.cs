@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeManagement.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb3bb657d19b2ca22777ace2094f82a7fa79891f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f302b47b897957970b7dd6a2856feecc7646cad5")]
+>>>>>>> d967c9932964d0ddbf67199d42c9689d8caa9da2
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeManagement.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeManagement.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
