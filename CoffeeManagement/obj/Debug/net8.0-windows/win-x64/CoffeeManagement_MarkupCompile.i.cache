@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\LAPTOP\Group3_Coffee_Management\CoffeeManagement\obj\Debug\net8.0-windows\win-x64\
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement\obj\Debug\net8.0-windows\win-x64\
 CoffeeManagement
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\LAPTOP\Group3_Coffee_Management\CoffeeManagement\App.xaml
-2-1337822565
+D:\FPT_PROCESS\S5_FA25\PRN212\Final_Project\Project_Github\CoffeeManagement\CoffeeManagement\App.xaml
+3-1033481310
 11584300966
-10668512614
-238-480412392
-UsersListControl.xaml;UserUpdateProfile.xaml;
+11-1504952765
+2381481176167
+AdminAllOrdersView.xaml;UsersListControl.xaml;UserUpdateProfile.xaml;
 
-False
+True
 
