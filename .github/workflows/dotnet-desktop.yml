@@ -30,7 +30,7 @@ jobs:
 
       - name: Run tests
         if: always()
-        run: dotnet test ./CoffeeManagement.Test/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
+        run: dotnet test ./CoffeeManagement.Tests/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
 
       - name: Publish WPF app (Release)
         run: dotnet publish ./CoffeeManagement/CoffeeManagement.csproj -c Release -r win-x64 --self-contained false --no-build -o ./artifacts/publish
